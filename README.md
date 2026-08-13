@@ -3,6 +3,7 @@
 An Arduino-based **automatic light-tracking system** that uses two LDR sensors to detect the direction of light and a stepper motor to automatically rotate toward the stronger light source.
 
 The project combines **embedded electronics, sensor interfacing, motor control, and custom 3D-printed mechanical parts**.
+![Uploading IMG_7989.JPG…]()
 
 ## Features
 
